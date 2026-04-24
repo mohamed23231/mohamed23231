@@ -1,68 +1,139 @@
-<h1 align="center">🚀 Welcome to My GitHub Universe! 🚀</h1>
+<h1 align="center">🚀 Mohamed Moamen 🚀</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer%20(Frontend%20&%20React%20Native%20Developer);Currently%20at%20Noon;Building%20Interactive%20&%20Performant%20Apps;Passionate%20about%20Mobile%20&%20Web%20Development!&font=Fira%20Code&center=true&width=900&height=50&color=FF61E6&vCenter=true&size=28">
-  </a>
-</p> 
-
----
-
-<p align="center">
-  <img align="center" src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" alt="Coding GIF" width="80%">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=850&lines=Frontend+%26+React+Native+Engineer;Building+production-scale+mobile+%26+web+apps;Focused+on+performance%2C+DX+%26+scalable+architecture" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-- 💼 **Currently working as a Frontend & React Native Developer at [Noon](https://www.noon.com/)**
-- 🎨 Specializing in **React.js, React Native, Next.js, TypeScript, and UI/UX Development**
-- 📱 Building **high-performance mobile & web applications**
-- 💡 Passionate about **scalability, animations, and interactive user experiences**
-- 🌍 Open to **collaborations on exciting projects & open-source contributions**
-- 📍 Based in **Egypt | Remote Developer**
+Frontend & React Native Engineer currently working at [Noon](https://www.noon.com/).
 
----
+I build scalable mobile and web experiences with a strong focus on:
+- performance optimization
+- maintainable architecture
+- developer experience
+- smooth UI interactions
+- production-ready systems
 
-## 🛠️ Tech Stack & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,reactnative,nextjs,nodejs,express,tailwind,mongodb,git,github,vscode,androidstudio,figma,docker" alt="Tech Stack" />
-</p>
-
----
-
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed23231&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamed23231&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed23231&layout=compact&theme=radical&hide_border=true&count_private=true">
-</p>
+Most of my recent work involves:
+- React Native app features
+- deep linking & navigation flows
+- real-time chat/support systems
+- API integrations
+- frontend architecture improvements
+- performance-focused UI development
 
 ---
 
-## 🔗 Connect with Me
+# ⚒️ Tech Stack
+
+## Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,sass,tailwind" />
+</p>
+
+## Mobile
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react" />
+</p>
+
+- React Native
+- Redux
+- Zustand
+- Native integrations
+- Deep Linking
+
+## Backend & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,docker,git,github,vscode,figma" />
+</p>
+
+---
+
+# 📌 Featured Work
+
+## 📱 In-App Customer Support System
+
+Production React Native feature with:
+- deep linking support
+- background API handling
+- real-time messaging flows
+- Zoho chat integration
+- Redux state management
+- optimized navigation handling
+
+---
+
+## 📝 MDX Release Notes Platform
+
+Built using Next.js + MDX with:
+- dynamic article rendering
+- topic extraction system
+- smart content organization
+- optimized search experience
+- media embedding support
+
+---
+
+## ✅ Advanced Task Management App
+
+Built with Next.js + TypeScript using:
+- Context API architecture
+- drag & drop task flow
+- clean state management
+- server component patterns
+- pure CSS styling system
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohamed23231&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed23231&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed23231&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🌍 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mmoamen1998/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="mailto:mmomoamen200@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
   <a href="https://mmoamen.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-⭐️ **If you like my work, feel free to star my repositories and follow me!** ⭐️
+# ⚡ Current Focus
+
+```ts
+const mohamed = {
+  role: "Frontend & React Native Engineer",
+  company: "Noon",
+  focus: [
+    "React Native",
+    "Performance Optimization",
+    "Scalable Frontend Architecture",
+    "Developer Experience",
+    "Production Systems"
+  ],
+};
